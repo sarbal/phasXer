@@ -1,0 +1,2 @@
+samtools view -H ../possorted_genome_bam_sorted_chrX.split.filtered.bam  > header.sam
+
