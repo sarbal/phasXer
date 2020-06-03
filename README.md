@@ -1,4 +1,4 @@
-# XskewR <img src="./figs/sticker.gif" align="right" height = 150/>
+# phasXer <img src="./figs/sticker.gif" align="right" height = 150/>
 
 
 # Introduction 
