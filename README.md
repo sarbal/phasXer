@@ -7,6 +7,7 @@ Due to the stochasticity of the X-inactivation - differences in timing of silenc
 <img src="./figs/xci.png" width="390" height="450" title=""> 
 
 # What you can do with this package
+<img src="./figs/workflow.png" width="390" height="450" title=""> 
 
 # What you need to get started
 ## Data
@@ -15,6 +16,7 @@ Due to the stochasticity of the X-inactivation - differences in timing of silenc
 
 ## System requirements
 ## What is in this user guide
+Nothing just yet! 
 ## How to get help
 Ask us! Please reach out.
 ## Installation
