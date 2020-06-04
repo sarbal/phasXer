@@ -14,7 +14,10 @@ Due to the stochasticity of the X-inactivation - differences in timing of silenc
 - RNA-seq (bulk or single cell) mapped reads in the form of an alignment (BAM) file or reads (FASTQ) files 
 - Genotype (VCF). This is optional if you wish to use the RNA-seq data to call your variants. 
 
-## System requirements
+## System and tool requirements
+- GATK
+- IGVtools
+
 ## What is in this user guide
 Nothing just yet! 
 ## How to get help
