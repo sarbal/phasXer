@@ -6,3 +6,20 @@ Due to the stochasticity of the X-inactivation - differences in timing of silenc
 
 <img src="./figs/xci.png" width="390" height="450" title=""> 
 
+# What you can do with this package
+
+# What you need to get started
+## Data
+- RNA-seq (bulk or single cell) mapped reads in the form of an alignment (BAM) file or reads (FASTQ) files 
+- Genotype (VCF). This is optional if you wish to use the RNA-seq data to call your variants. 
+
+## System requirements
+## What is in this user guide
+## How to get help
+Ask us! Please reach out.
+## Installation
+Using devtools:
+```
+# install.packages("devtools")
+devtools::install_github("sarbal/phasXer")
+```
